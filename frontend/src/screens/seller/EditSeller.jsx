@@ -7,6 +7,8 @@ import AsyncStorage from '@react-native-async-storage/async-storage'
 import * as ImagePicker from 'expo-image-picker'
 import Loader from '../Loader/Loader'
 
+
+// Ip
 const BASE_URL = "http://192.168.1.4:8080/api";
 const BASE_IMAGE_URL = "http://192.168.1.4:8080/uploads/"; 
 
