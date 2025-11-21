@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "krishna_old_expo",
+    "slug": "krishna_old_expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+
+    "jsEngine": "hermes",
+
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+    "android": {
+      "package": "com.anonymous.krishna_old_expo"
+    }
+  }
+}
