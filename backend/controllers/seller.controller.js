@@ -149,7 +149,7 @@ export const login = async (req, res) => {
 // };
 
 //Get all Product
-
+// Get Product
 export const getAllProduct = (req, res) => {
   const seller_id = req.user.id; // JWT se seller id
 
