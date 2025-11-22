@@ -178,7 +178,7 @@ export const getAllProduct = (req, res) => {
 
 
 
-//Insert the Product Updated Value
+//Insert the Product Updated Value add 
 export const addProduct = (req, res) => {
   const { productName, price, discription } = req.body;
   const seller_id = req.user.id;
